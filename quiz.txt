@@ -1,0 +1,32 @@
+Programowanie w C++
+Kamil J
+Jaki jest wynik dzialania 2+2:
+1
+2
+4
+8
+c
+W jakim jezyku programowania napisany jest ten program:
+C#
+Java
+Python
+C++
+d
+Kto jest prezydentem RP?
+Andrzej Duda
+Donald Tusk
+Jaroslaw Kaczynski
+Pan Tenorek
+a
+Ile godzin ma doba?
+12
+100
+24
+10
+c
+Ile jest miesiecy w roku?
+0
+10
+13
+12
+d
